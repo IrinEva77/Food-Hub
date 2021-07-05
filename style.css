@@ -24,11 +24,31 @@ padding-left: 5px;
 .half-width img{
     width: 80%;
 }
+
 .link{
-    text-decoration: none;
-    background-image: linear-gradient(rgb(67, 187, 235) ,blue);
+     text-decoration: none;
+    background-image: linear-gradient(blue,white);
     padding: 10px 40px;
     font-weight: 600px;
     border-radius: 15px;
     color: white;
+
 }
+.full-width img{
+    width: 100%;
+
+}
+.full-width{
+    padding-left: padding-top: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+}
+
+    .click{
+        text-decoration: none;
+        background-image: linear-gradient(red,pink);
+        padding: 10px 40px;
+        font-weight: 600px;
+        border-radius: 15px;
+        color: white;
