@@ -9,8 +9,11 @@ body{
 h1{
     font-size: 50px;
 }
-.red{color: rgb(25, 151, 201);}
+.red{color: 
+    rgb(25, 151, 201);
+}
 h2{ font-size: 40px;
+    display: inline;
 }
 h3{
     color: rgba(165, 42, 42, 0.5);
@@ -65,4 +68,35 @@ padding-left: 5px;
             background-position: left;
             margin: 10px;
         }
+        .food-item {
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
+            box-shadow: 10px 10px 50px grey;
+            text-align: justify;
+            padding-left:  5%;
+            padding-right: 5%;
+            border-radius: 20px;
+            text-align:justify
         
+          }
+          .recipes img{
+              width: 100%
+    
+          }
+          .recipes{
+              text-align: center;
+          }
+          .new{
+            width: 40%;
+            margin-left: 5%;
+            margin-right: 5%;
+            box-shadow: 10px 10px 50px grey;
+            text-align: justify;
+            padding-left:  5%;
+            padding-right: 5%;
+            border-radius: 20px;
+            text-align:justify
+    
+          }
+    
