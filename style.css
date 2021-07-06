@@ -15,7 +15,7 @@ h2{ font-size: 40px;
 h3{
     color: rgba(165, 42, 42, 0.5);
 }
-section{display: 
+.flexable{display: 
     flex;
 margin-bottom: 100px;}
 .half-width{
@@ -65,3 +65,4 @@ padding-left: 5px;
             background-position: left;
             margin: 10px;
         }
+        
